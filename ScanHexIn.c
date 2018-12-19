@@ -3,7 +3,6 @@
 
 int main() 
 {
- 
    uint32_t wSeed;
    int i;
  
